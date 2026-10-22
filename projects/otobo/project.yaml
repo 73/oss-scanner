@@ -1,0 +1,5 @@
+repo: https://github.com/RotherOSS/otobo#rel-11_1
+primary_contact: security@otobo.org
+homepage: https://otobo.io
+disabled: false
+dockerfile: otobo.web.dockerfile
